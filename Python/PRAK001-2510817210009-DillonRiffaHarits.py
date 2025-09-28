@@ -1,1 +1,1 @@
-print("Saya Calon Programmer No.1\n")
+print("Saya Calon Programmer No.1")
